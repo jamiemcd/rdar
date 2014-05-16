@@ -114,13 +114,13 @@
 			isa = PBXGroup;
 			children = (
 				FD6E0624177F8BC400BE2C7D /* AppDelegate.h */,
-				FD6E0644177F8C1000BE2C7D /* PageViewController.h */,
-				FD6E0645177F8C1000BE2C7D /* PageViewController.m */,
-				FD6E0647177F8C2700BE2C7D /* ViewController.h */,
-				FD6E0648177F8C2700BE2C7D /* ViewController.m */,
 				FD6E0625177F8BC400BE2C7D /* AppDelegate.m */,
 				FD6E0627177F8BC400BE2C7D /* Images.xcassets */,
+				FD6E0644177F8C1000BE2C7D /* PageViewController.h */,
+				FD6E0645177F8C1000BE2C7D /* PageViewController.m */,
 				FD6E061C177F8BC400BE2C7D /* Supporting Files */,
+				FD6E0647177F8C2700BE2C7D /* ViewController.h */,
+				FD6E0648177F8C2700BE2C7D /* ViewController.m */,
 			);
 			path = PageViewControllerBug;
 			sourceTree = "<group>";
@@ -451,6 +451,7 @@
 				FD6E0640177F8BC400BE2C7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		FD6E0641177F8BC400BE2C7D /* Build configuration list for PBXNativeTarget "PageViewControllerBugTests" */ = {
 			isa = XCConfigurationList;
@@ -459,6 +460,7 @@
 				FD6E0643177F8BC400BE2C7D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
